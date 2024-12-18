@@ -12,10 +12,10 @@
     "asset_directory": "Assets",
     "binary_directory": "bin",
     "library_directory": "lib",
-    "thumbnail_guid": "ba105e43-a329-97f7-435e-fc522be00bd1",
+    "thumbnail_guid": "e1d814f5-15ea-7033-2028-f6b7e744c722",
     "default_scene": "afe1d2ab-4fe2-424b-9478-9a654cd54e3b",
     "source": "Project.nproject",
-    "tags": [ "5f1de2fb-690d-4f75-bbc3-b5e83a5d08d9" ],
+    "tags": [ "0c26b65a-dcc6-4109-aa99-44ccfc84ba67" ],
 	"settings": {
 		"5ED68A2E-C9AF-454F-AD1E-416044E6498A": {
 			"type": "EF61ECBA-906C-481A-B501-966A6BB4729C",
