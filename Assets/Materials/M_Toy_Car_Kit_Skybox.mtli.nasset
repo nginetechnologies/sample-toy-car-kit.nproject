@@ -1,0 +1,12 @@
+{
+    "guid": "40642c99-2f6a-481d-8ecd-fd2f9e9f06f6",
+    "material": "d3b37153-2dce-4574-a8f1-f118df0e8e30",
+    "push_constants": [
+        {
+            "type": 0,
+            "color": "#90d5ff"
+        }
+    ],
+    "typeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f",
+    "assetTypeGuid": "ce3b6c53-1b6d-4bc6-97e6-2ea036c58c0f"
+}
